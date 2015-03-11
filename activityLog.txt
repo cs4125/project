@@ -25,6 +25,7 @@ Suggested book (JJ):	git: Cheesman_2000_UCS.pdf
 
 
 
+Attendance:		all
 
 --------------------------------------------------------------------------------------------------------------
 
@@ -36,6 +37,7 @@ Week #5 : Meeting 2
 			Reviewed the hotel model
 			Selected this as our project model
 			Selected a hotel use case model to use as the existing model
+Attendance:		all
 
 --------------------------------------------------------------------------------------------------------------
 
@@ -44,9 +46,18 @@ Week #5 : Meeting 2
 Week #5 : Meeting 3
 			Logo done.
 			Project document started.
-			Nattative Description - first draft done - cormac
-			Narrative description - passed to jeff
+			Narrative Description - first draft done
 			Use Case split into 3 Actor use cases
+Attendance:		all
+
+--------------------------------------------------------------------------------------------------------------
+
+Week #5 : Meeting 4
+			Narrative Description completed
+			SLC work apportioned
+			Project Roles & Allocation work apportioned
+			Visual Paradigm use cse work apportioned
+Attendance:		all
 
 --------------------------------------------------------------------------------------------------------------
 
